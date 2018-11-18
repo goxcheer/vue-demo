@@ -1,6 +1,6 @@
 # managesystem
 
-> A Vue.js project
+> A Vue.js project for manater system
 
 ## Build Setup
 
